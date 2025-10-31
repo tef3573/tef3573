@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## 💫 About Me
+👋 Hi, I'm Tanesha Fuller (she/her)!
 <!--
 **tef3573/tef3573** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 **Economics + Computer Science Student + Math** at NYU  
+💼 **Finance Intern** @ Black Girls Code  
+📈 Aspiring **Quant & Risk Analyst** passionate about data-driven decision-making  
+
+**Interests:** Quantitative Finance | Risk Modeling | Financial Risk Management | Data Analytics | Financial Engineering  
+**Currently Learning:** Python, Data Structures, Financial Modeling, Machine Learning  
+**Goal:** Building analytical tools to assess and forecast financial risk  
+
+---
+
+## 🧠 Tech Stack
+**Languages:** Python, Java, SQL  
+**Libraries/Tools:** NumPy, pandas, Matplotlib, Jupyter Notebook, Git, Excel  
+**DevOps:** VS Code, Jupyter Notebook, Google Collab
+
+---
+
+## 🔗 Connect With Me
+📍 New York  
+✉️ [tef3573@nyu.edu](tef3573@nyu.edu)  
+💼 [LinkedIn](https://linkedin.com/in/tanesha-fuller-125661222)
+
+---
+
+⭐ “Turning data into decisions — and decisions into impact.” ⭐ 
