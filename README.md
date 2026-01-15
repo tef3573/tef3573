@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🧠 Tech Stack
 **Languages:** Python, Java, SQL, HTML, CSS, JavaScript  
-**Libraries/Tools:** NumPy, pandas, Matplotlib, Jupyter Notebook, Git, Excel  
+**Libraries/Tools:** NumPy, Pandas, Matplotlib, Jupyter Notebook, Git, Excel  
 **DevOps:** VS Code, Jupyter Notebook, Google Collab
 
 ---
