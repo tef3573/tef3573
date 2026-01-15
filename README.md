@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 
 ## 🔗 Connect With Me
-📍 New York  
+📍 New York,NY  📍 Charlotte,NC  
 ✉️ [tef3573@nyu.edu](tef3573@nyu.edu)  
 💼 [LinkedIn](https://linkedin.com/in/tanesha-fuller-125661222)
 
