@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 **Economics + Computer Science Student + Math** at NYU  
-💼 **Finance Intern** @ Black Girls Code  
+🎓 **Economics + Computer Science Student, Math** at NYU
+💼 **Data and Impacting Intern** @ Beyond Code Collective 
 📈 Aspiring **Quant & Risk Analyst** passionate about data-driven decision-making  
 
-**Interests:** Quantitative Finance | Risk Modeling | Financial Risk Management | Data Analytics | Financial Engineering  
+**Interests:** Data Engineering| Quantitative Finance | Risk Modeling | Financial Risk Management | Data Analytics | Financial Engineering  
 **Currently Learning:** Python, Data Structures, Financial Modeling, Machine Learning  
 **Goal:** Building analytical tools to assess and forecast financial risk  
 
