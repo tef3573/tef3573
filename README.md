@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 💼 **Data and Impacting Intern** @ Beyond Code Collective                                        
 📈 Aspiring **Risk Analyst** or **Data Engineer** passionate about data-driven decision-making  
 
-**Interests:** Data Engineering| Quantitative Finance | Risk Modeling | Financial Risk Management | Data Analytics | Financial Engineering                                             
+**Interests:** Data Engineering | Quantitative Finance | Risk Modeling | Financial Risk Management | Data Analytics | Financial Engineering                                             
 **Currently Learning:** Python, Data Structures, Financial Modeling, Machine Learning  
 **Goal:** Building analytical tools to assess and forecast financial risk  
 
